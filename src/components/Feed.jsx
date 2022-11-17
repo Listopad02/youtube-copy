@@ -26,7 +26,7 @@ const Feed = () => {
                     sx={{ mt: 1.5,
                           color: "#fff" 
                         }}>
-          Copyright 2022 JSM Media
+          © copyright 2022
         </Typography>
       </Box>
       <Box p={2} sx={{ overflowY: "auto",
